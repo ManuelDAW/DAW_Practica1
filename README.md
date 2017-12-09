@@ -1,4 +1,5 @@
-#Práctica 1
+##Práctica 1
+
 Esta práctica consiste en hacer __pequeños ejemplos de php__.
 Se realizarán según los ejemplos vistos en clase
 Revisar el tema de las __constantes__  de definirlas también con const
